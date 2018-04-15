@@ -18,6 +18,7 @@
 		E769EF4D207F303400CE8787 /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E769EF4C207F303400CE8787 /* GradientView.swift */; };
 		E769EF502082C23600CE8787 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = E769EF4F2082C23600CE8787 /* Constants.swift */; };
 		E769EF522082C5F500CE8787 /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E769EF512082C5F500CE8787 /* LoginVC.swift */; };
+		E769EF542082C96500CE8787 /* CreateAccountVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E769EF532082C96500CE8787 /* CreateAccountVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		E769EF4C207F303400CE8787 /* GradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
 		E769EF4F2082C23600CE8787 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		E769EF512082C5F500CE8787 /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
+		E769EF532082C96500CE8787 /* CreateAccountVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateAccountVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +122,7 @@
 				E769EF48207F1E5400CE8787 /* ChatVC.swift */,
 				E769EF4A207F1E6200CE8787 /* ChannelVC.swift */,
 				E769EF512082C5F500CE8787 /* LoginVC.swift */,
+				E769EF532082C96500CE8787 /* CreateAccountVC.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -268,6 +271,7 @@
 			files = (
 				E769EF4B207F1E6200CE8787 /* ChannelVC.swift in Sources */,
 				E769EF49207F1E5400CE8787 /* ChatVC.swift in Sources */,
+				E769EF542082C96500CE8787 /* CreateAccountVC.swift in Sources */,
 				E769EF522082C5F500CE8787 /* LoginVC.swift in Sources */,
 				E769EF4D207F303400CE8787 /* GradientView.swift in Sources */,
 				E7682584207E5AD10060D397 /* AppDelegate.swift in Sources */,
