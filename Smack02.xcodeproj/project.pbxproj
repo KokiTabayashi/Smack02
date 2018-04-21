@@ -29,6 +29,7 @@
 		E7734E362085AC2F006F030B /* AvatarPickerVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7734E352085AC2F006F030B /* AvatarPickerVC.swift */; };
 		E7734E382085AE09006F030B /* AvatarCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7734E372085AE09006F030B /* AvatarCell.swift */; };
 		E7761FEF2086D803004C1B51 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7761FEE2086D803004C1B51 /* CircleImage.swift */; };
+		E7E27292208BD425000BB85A /* ChannelCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7E27291208BD425000BB85A /* ChannelCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -60,6 +61,7 @@
 		E7734E352085AC2F006F030B /* AvatarPickerVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AvatarPickerVC.swift; sourceTree = "<group>"; };
 		E7734E372085AE09006F030B /* AvatarCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AvatarCell.swift; sourceTree = "<group>"; };
 		E7761FEE2086D803004C1B51 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		E7E27291208BD425000BB85A /* ChannelCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChannelCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -168,6 +170,7 @@
 				E7116BB4208410BB00669AE5 /* RoundedButton.swift */,
 				E7734E372085AE09006F030B /* AvatarCell.swift */,
 				E7761FEE2086D803004C1B51 /* CircleImage.swift */,
+				E7E27291208BD425000BB85A /* ChannelCell.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -317,6 +320,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E76AD8AE208A9EE6002EC091 /* ProfileVC.swift in Sources */,
+				E7E27292208BD425000BB85A /* ChannelCell.swift in Sources */,
 				E769EF4B207F1E6200CE8787 /* ChannelVC.swift in Sources */,
 				E7734E362085AC2F006F030B /* AvatarPickerVC.swift in Sources */,
 				E7116BB5208410BB00669AE5 /* RoundedButton.swift in Sources */,
