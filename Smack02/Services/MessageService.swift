@@ -32,6 +32,7 @@ class MessageService {
                             let channel = Channel(channelTitle: name, channelDescription: channelDescription, id: id)
                             self.channels.append(channel)
                         }
+                        print(self.channels[0].channelTitle)
                         completion(true)
                     }
                 } catch {
@@ -45,9 +46,8 @@ class MessageService {
 //                } catch let error {
 //                    debugPrint(error as Any)
 //                }
+//                print(self.channels[0].channelTitle)
                 //
-                
-                print(self.channels[0].channelTitle)
                 
             } else {
                 completion(false)
