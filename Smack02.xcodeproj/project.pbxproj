@@ -33,6 +33,7 @@
 		E7E27295208BD95A000BB85A /* AddChannelVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7E27293208BD95A000BB85A /* AddChannelVC.swift */; };
 		E7E27296208BD95A000BB85A /* AddChannelVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = E7E27294208BD95A000BB85A /* AddChannelVC.xib */; };
 		E7E27298208BE550000BB85A /* SocketService.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7E27297208BE550000BB85A /* SocketService.swift */; };
+		E7E2729A208C16AB000BB85A /* Message.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7E27299208C16AB000BB85A /* Message.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -68,6 +69,7 @@
 		E7E27293208BD95A000BB85A /* AddChannelVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddChannelVC.swift; sourceTree = "<group>"; };
 		E7E27294208BD95A000BB85A /* AddChannelVC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = AddChannelVC.xib; sourceTree = "<group>"; };
 		E7E27297208BE550000BB85A /* SocketService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SocketService.swift; sourceTree = "<group>"; };
+		E7E27299208C16AB000BB85A /* Message.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Message.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -187,6 +189,7 @@
 			isa = PBXGroup;
 			children = (
 				E76AD8B3208ADDF9002EC091 /* Channel.swift */,
+				E7E27299208C16AB000BB85A /* Message.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -335,6 +338,7 @@
 				E769EF4B207F1E6200CE8787 /* ChannelVC.swift in Sources */,
 				E7734E362085AC2F006F030B /* AvatarPickerVC.swift in Sources */,
 				E7116BB5208410BB00669AE5 /* RoundedButton.swift in Sources */,
+				E7E2729A208C16AB000BB85A /* Message.swift in Sources */,
 				E76AD8B4208ADDF9002EC091 /* Channel.swift in Sources */,
 				E7761FEF2086D803004C1B51 /* CircleImage.swift in Sources */,
 				E76AD8B2208ADDA8002EC091 /* MessageService.swift in Sources */,
