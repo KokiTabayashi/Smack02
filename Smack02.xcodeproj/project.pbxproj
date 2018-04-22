@@ -34,6 +34,7 @@
 		E7E27296208BD95A000BB85A /* AddChannelVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = E7E27294208BD95A000BB85A /* AddChannelVC.xib */; };
 		E7E27298208BE550000BB85A /* SocketService.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7E27297208BE550000BB85A /* SocketService.swift */; };
 		E7E2729A208C16AB000BB85A /* Message.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7E27299208C16AB000BB85A /* Message.swift */; };
+		E7E2729C208C3A46000BB85A /* KeyboardBoundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7E2729B208C3A46000BB85A /* KeyboardBoundView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -70,6 +71,7 @@
 		E7E27294208BD95A000BB85A /* AddChannelVC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = AddChannelVC.xib; sourceTree = "<group>"; };
 		E7E27297208BE550000BB85A /* SocketService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SocketService.swift; sourceTree = "<group>"; };
 		E7E27299208C16AB000BB85A /* Message.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Message.swift; sourceTree = "<group>"; };
+		E7E2729B208C3A46000BB85A /* KeyboardBoundView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeyboardBoundView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -181,6 +183,7 @@
 				E7734E372085AE09006F030B /* AvatarCell.swift */,
 				E7761FEE2086D803004C1B51 /* CircleImage.swift */,
 				E7E27291208BD425000BB85A /* ChannelCell.swift */,
+				E7E2729B208C3A46000BB85A /* KeyboardBoundView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -332,6 +335,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E7E2729C208C3A46000BB85A /* KeyboardBoundView.swift in Sources */,
 				E7E27298208BE550000BB85A /* SocketService.swift in Sources */,
 				E76AD8AE208A9EE6002EC091 /* ProfileVC.swift in Sources */,
 				E7E27292208BD425000BB85A /* ChannelCell.swift in Sources */,
